@@ -17,6 +17,18 @@ public class Main {
        // partitionZeroOnes.partitionController();
 
         RangePartition rangePartition=new RangePartition();
-        rangePartition.rangeController();
+        //rangePartition.rangeController();
+
+        MinSwap minSwap=new MinSwap();
+       // minSwap.SwapController();
+
+        AbsDifference absDifference=new AbsDifference();
+     //   absDifference.absDiffController();
+
+        EquationSort equationSort=new EquationSort();
+      //  equationSort.equController();
+
+        SeparateEvenOdd separateEvenOdd=new SeparateEvenOdd();
+        separateEvenOdd.EvenOddController();
     }
 }
