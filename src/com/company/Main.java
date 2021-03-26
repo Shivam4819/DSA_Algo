@@ -29,6 +29,12 @@ public class Main {
       //  equationSort.equController();
 
         SeparateEvenOdd separateEvenOdd=new SeparateEvenOdd();
-        separateEvenOdd.EvenOddController();
+       // separateEvenOdd.EvenOddController();
+
+        MergeArray mergeArray=new MergeArray();
+       // mergeArray.mergeController();
+
+        CheckReverse checkReverse= new CheckReverse();
+        checkReverse.reverseController();
     }
 }
